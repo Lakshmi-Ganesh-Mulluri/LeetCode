@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0013-roman-to-integer) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0200-number-of-islands) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
