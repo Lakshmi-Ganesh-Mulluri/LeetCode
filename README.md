@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
