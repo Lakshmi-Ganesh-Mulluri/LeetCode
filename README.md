@@ -17,6 +17,7 @@
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0200-number-of-islands) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0013-roman-to-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -62,14 +65,17 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
