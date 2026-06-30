@@ -10,6 +10,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0509-fibonacci-number) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -40,6 +41,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0509-fibonacci-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
@@ -86,4 +88,12 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
