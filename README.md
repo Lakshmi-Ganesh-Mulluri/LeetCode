@@ -40,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0509-fibonacci-number) |
