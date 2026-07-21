@@ -50,6 +50,7 @@
 | ------- |
 | [0198-house-robber](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0200-number-of-islands) |
+| [0875-koko-eating-bananas](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1260-shift-2d-grid) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
