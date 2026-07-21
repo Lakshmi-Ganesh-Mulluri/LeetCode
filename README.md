@@ -73,6 +73,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0875-koko-eating-bananas) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
