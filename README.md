@@ -52,6 +52,7 @@
 | [0200-number-of-islands](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0200-number-of-islands) |
 | [0875-koko-eating-bananas](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1260-shift-2d-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
@@ -75,6 +76,7 @@
 | [0020-valid-parentheses](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0020-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -115,6 +118,7 @@
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Enumeration
 |  |
 | ------- |
