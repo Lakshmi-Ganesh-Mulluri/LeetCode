@@ -23,12 +23,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -142,4 +144,12 @@
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
