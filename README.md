@@ -50,6 +50,7 @@
 | ------- |
 | [0198-house-robber](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0200-number-of-islands) |
+| [0739-daily-temperatures](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -127,4 +128,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
