@@ -49,6 +49,7 @@
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0200-number-of-islands) |
 | [0739-daily-temperatures](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0739-daily-temperatures) |
@@ -130,10 +131,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
 |  |
