@@ -50,6 +50,7 @@
 | [0509-fibonacci-number](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0509-fibonacci-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
@@ -160,4 +161,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
