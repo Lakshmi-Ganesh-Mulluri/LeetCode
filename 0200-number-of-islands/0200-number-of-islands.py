@@ -1,21 +1,27 @@
 class Solution(object):
-    def numIslands(self,g):
-        if not g:
+    def numIslands(self, grid):
+        if not grid:
             return 0
-        r=len(g)
-        c=len(g[0])
-        ans=0
-        def dfs(i,j):
-            if i<0 or i>=r or j<0 or j>=c or g[i][j]=='0':
-                return
-            g[i][j]='0'
-            dfs(i+1,j)
-            dfs(i-1,j)
-            dfs(i,j+1)
-            dfs(i,j-1)
-        for i in range(r):
-            for j in range(c):
-                if g[i][j]=='1':
-                    ans+=1
-                    dfs(i,j)
-        return ans
+        m, n = len(grid), len(grid[0])
+        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+        def bfs(r, c):
+            queue = deque()
+            queue.append((r, c))
+            grid[r][c] = "0"
+            while queue:
+                row, col = queue.popleft()
+                for dr, dc in directions:
+                    nr = row + dr
+                    nc = col + dc
+                    if (0 <= nr < m and
+                        0 <= nc < n and
+                        grid[nr][nc] == "1"):
+                        grid[nr][nc] = "0"
+                        queue.append((nr, nc))
+        islands = 0
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j] == "1":
+                    islands += 1
+                    bfs(i, j)
+        return islands
