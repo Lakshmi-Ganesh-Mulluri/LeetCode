@@ -48,6 +48,7 @@
 | [0009-palindrome-number](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -58,6 +59,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0200-number-of-islands) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -164,5 +166,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
