@@ -58,6 +58,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0045-jump-game-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0198-house-robber) |
@@ -83,6 +84,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
