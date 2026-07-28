@@ -10,6 +10,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0509-fibonacci-number) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -56,6 +57,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0045-jump-game-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0200-number-of-islands) |
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
