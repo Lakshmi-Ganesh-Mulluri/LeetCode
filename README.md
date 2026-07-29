@@ -55,6 +55,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
@@ -90,6 +91,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -102,6 +104,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +124,7 @@
 ## Counting
 |  |
 | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
@@ -195,4 +199,8 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0435-non-overlapping-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
