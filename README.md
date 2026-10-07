@@ -36,6 +36,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0733-flood-fill](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -102,6 +103,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0020-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -206,4 +208,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
