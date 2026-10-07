@@ -66,6 +66,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0733-flood-fill) |
@@ -90,6 +91,7 @@
 | [0001-two-sum](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0217-contains-duplicate) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -181,6 +183,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
