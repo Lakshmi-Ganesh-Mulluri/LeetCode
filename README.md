@@ -93,6 +93,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -104,6 +105,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lakshmi-Ganesh-Mulluri/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
